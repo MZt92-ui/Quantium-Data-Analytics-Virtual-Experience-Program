@@ -46,11 +46,11 @@ Python will be used for statistical analysis, and key findings will be presented
 3. Package size:
 
 The package size has been divided into the following 5 categories: 
-mini: 0-100g
-small: 100-200g 
-medium: 200-300g 
-large: 300-350g 
-Jumbo: over 350g 
+mini (0-100g)
+small (100-200g) 
+medium (200-300g) 
+large (300-350g) 
+Jumbo (over 350g) 
 All customer segments behave similarly in terms of package size, with small (100-200g) size outstandingly prefered.
 
 4. How customers respond to time?
