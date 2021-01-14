@@ -1,10 +1,11 @@
-# Quantium-Data-Analytics-Virtual-Experience-Program
+# Quantium Data Analytics Virtual Experience Program
+
 ## Program Background
-### Purpose of Program
+#### Purpose of Program
 Aimed for individuals who are interested in data analytics career to learn how companies like Quantium use data to unearth ideas and solve problems in real world. 
-### About Quantium
+#### About Quantium
 Quantium offers a 17-year track records of innovation in data science, combining the best of human and artificial intelligence to power possibilities for individuals, organisations and society.
-### Characteristics of this work
+#### Characteristics of this work
 Quantium has had a data partnership with a large supermarket brand for the lasty few years who provide transactional and customer data. I work as virtually as a data analyst within the retail  analytics team, and are responsible for delivering data analytics and insights to help the business make strategic decisions. <br>
 This work is my personal attempt.  
 
@@ -14,6 +15,7 @@ To support supermarket’s strategic plan for the chip category in the next half
 To understand types of customers who purchase Chips and their purchasing behaviour within the region,
 #### Task 2
 Supermarkets has tried 3 different layouts in 3 trial stores for a period to test new opportunities. So, our team will support to assess whether or not the layouts should be rolled out to all their stores.  
+
 ## Methods
 #### Task 1
 2 datasets will be examined: transaction data and customer data (including their life stages and premium types).
